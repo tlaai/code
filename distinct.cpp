@@ -2,6 +2,7 @@
 using namespace std;
 
 // Phần này là template, các bạn có thể bỏ qua
+// Kéo xuống dưới cùng để xem hàm bạn cần phải hoàn thành.
 
 static struct FastInput {
   static constexpr int BUF_SIZE = 1 << 20;
